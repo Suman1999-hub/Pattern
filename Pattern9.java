@@ -1,7 +1,7 @@
 //Pattern9
 /*
  * Output:
- 		  P 
+ 	      P 
 	     R O 
 	    G R A 
 	   M P R O 
