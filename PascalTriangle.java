@@ -1,9 +1,9 @@
-// Pascal’s Triangle
+// Pascalâ€™s Triangle
 /*
  * Input:
- 		5
+ 	    5
    Output:
- 		1 
+ 	    1 
 	   1 1 
 	  1 2 1 
 	 1 3 3 1 
