@@ -1,7 +1,7 @@
 //Pattern20
 /*
  * Input:
- 		 5
+ 	     5
    Output:
 	     * 
 	    * * 
