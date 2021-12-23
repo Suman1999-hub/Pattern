@@ -1,3 +1,15 @@
+// Pattern 22
+/*
+  Input:
+	5
+  Output:
+      	    *
+	   * *
+	  *   *
+	 *     *
+	*********
+*/
+
 package Pattern;
 import java.util.*;
 public class Pattern22 {
