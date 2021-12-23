@@ -1,3 +1,15 @@
+//Series 3
+/*
+  Input:
+	4
+  Output:
+  	1 8 9 16 
+	2 7 10 15 
+	3 6 11 14 
+	4 5 12 13 
+*/
+
+
 package Pattern;
 import java.util.*;
 public class Series3 {
